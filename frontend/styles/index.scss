@@ -1,1 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Life+Savers:wght@400;700&family=Maven+Pro:wght@400;500;600;700&display=swap');
+
+$theme_variation: witchy !default;
+
+// Typography
+$family-primary: 'Maven Pro', sans-serif;
+$family-secondary: 'Life Savers', cursive;
+
+h1 {
+  font-family: $family-secondary;
+  font-weight: bold;
+}
+
+h3, h4, h5, h6 {
+  font-family: $family-primary
+}
+
+.highlights li {
+  list-style: "🔮" outside;
+  padding-left: 10px;
+}
+
+$primary: rgb(17, 81, 92) !default;
+$secondary: rgb(17, 81, 92) !default;
+
+@if $theme_variation == rust {
+  $primary: rgb(92, 32, 17);
+} @else if $theme_variation == fuchsia {
+  $primary: rgb(81, 17, 92);
+} @else if $theme_variation == fineart {
+  $primary: rgb(35, 51, 56);
+} @else if $theme_variation == witchy {
+  $primary: rgb(131, 102, 150);
+  $secondary: rgb(119, 188, 193);
+  $text: rgb(53, 55, 75);
+  $red: rgb(216, 34, 80);
+  $code-background: #CEC9EA;
+  $pre-background: $code-background;
+  $footer-background-color: #C3A8D3;
+}
 @import "~bulmatown/frontend/styles"
