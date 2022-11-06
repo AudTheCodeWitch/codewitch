@@ -43,7 +43,7 @@ you really are?
 Enter [Polywork](https://www.polywork.com/invite/codewitchcoven), a new social networking platform designed to highlight
 the best pieces of its users. Each user has their own profile, which essentially boils down to a kick-ass timeline of
 their accomplishments (and sometimes failures), both personal and professional. While you _can_ build out your profile
-just like you would on LinkedIn or a [traditional paper resume](https://codewitch.dev/about/resume), I encourage you to
+just like you would on LinkedIn or a [traditional paper resume](/about/resume), I encourage you to
 get a little creative and have some fun with it.
 
 Instead of adding to the millions of other blog posts out there on how to network and land your next job, today I
