@@ -1,12 +1,11 @@
 ---
 layout: post
-title:      "Nevertheless, Audrea Cook Coded"
-date:       2020-03-06 18:43:42 -0500
+title: "Nevertheless, She Coded"
+date: 2020-03-06 18:43:42 -0500
 image: /images/heroes/she_coded.jpg
 image_hero: /images/heroes/she_coded.jpg
 rainbow_hero: true
 ---
-
 
 As a child, my parents fed me the same line most parents do: “You can be anything you want when you grow up.” While I never distrusted their encouragement, I never truly internalized it, either.
 
@@ -22,7 +21,6 @@ Unfortunately, when these roles are the only ones you see actually modeled in re
 
 So I decided, without any sense of direction or true passion, to take the road more frequently traveled. I pursued a degree in English literature. I ran an office at a small roofing company. I worked as a writer and editor. When I still failed to find satisfaction in my career, I went back to college to become an elementary school teacher. After public education chewed me up and spit me out, I even attempted to be a homemaker! In the decade following high school, I tried all the women’s roles I saw modeled as a child (except for being a mom; that’s never gonna happen). None of them made me happy.
 
-
 ## Woman in a Woman’s World
 
 My unhappiness caused me to feel really awful about myself. Why couldn’t I just be “normal?” When will I ever find my tribe? It was during this period that I began to spend more time with my Aunt Leanne, who had recently moved back to Colorado. As an adult listening to all the complicated stuff that woman does as the VP of Operations at a major company, it dawned on me: my aunt is a freaking badass.
@@ -33,10 +31,9 @@ My unhappiness caused me to feel really awful about myself. Why couldn’t I jus
 
 She and my uncle had a vision for their future, and they worked hard to achieve it, small-town pettiness be damned. And it turned out great -- they have three successful children, a beautiful home, and a marriage to be proud of. As we talked, I realized the woman sitting across the table did it: she took the more difficult road, and it paid off in spades.
 
-As I began to plot my next move after teaching, I kept thinking about that promise my parents made, the one that said I could do anything. I also thought of the women that raised and inspired me. They all took different journeys, and none of them were easy. The ones who really inspired me -- women like my mom and my aunt -- chose their path because it was their _passion_, not because it was_ society’s expectation_.
+As I began to plot my next move after teaching, I kept thinking about that promise my parents made, the one that said I could do anything. I also thought of the women that raised and inspired me. They all took different journeys, and none of them were easy. The ones who really inspired me -- women like my mom and my aunt -- chose their path because it was their _passion_, not because it was* society’s expectation*.
 
 What was my passion? What would I gladly spend my days doing if I didn’t care what anyone else thought? Instead of searching for a specific career, I considered the best parts of all my career choices thus far. I quickly realized my passion isn’t a career, it’s a skill: problem-solving. And what is software engineering other than a job where all you do is solve one problem after another?
-
 
 ## Woman in a Human World
 
