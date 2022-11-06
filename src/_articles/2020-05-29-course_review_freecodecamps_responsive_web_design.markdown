@@ -2,7 +2,6 @@
 layout: post
 title:      "Course Review: FreeCodeCamp's Responsive Web Design"
 date:       2020-05-30 01:29:16 +0000
-permalink:  course_review_freecodecamps_responsive_web_design
 image:
 image_hero:
 rainbow_hero: true

@@ -2,7 +2,6 @@
 layout: post
 title:      "Giving Back: How to Start a Code Club"
 date:       2020-01-30 21:57:10 +0000
-permalink:  giving_back_how_to_start_a_code_club
 image: /images/heroes/code_club.jpg
 image_hero: /images/heroes/code_club.jpg
 rainbow_hero: true
@@ -11,7 +10,7 @@ rainbow_hero: true
 
 Before becoming a little code witch, I was a teacher in a low-income school. My students received 100% free breakfast and lunch, our building smelled faintly of mildew, and resources were limited. We finally hired a technology teacher, but that position only lasted for a year due to budget constraints. As an adult, my surroundings were often disheartening. The staff, the teachers, and most importantly, the students, deserved more.
 
-But you know what? The kids were inspiring. My little second graders were so curious, so kind, so _funny_. 
+But you know what? The kids were inspiring. My little second graders were so curious, so kind, so _funny_.
 
 <center>
 <img src='https://media.giphy.com/media/awxqzKhiUV4ly/source.gif' alt="Kid judging the original GameBoy"/>
@@ -21,7 +20,7 @@ They were thrilled with the technology they did have (my former principal worked
 
 My last batch of second graders is now a group of tall, lanky fifth graders. I had dinner with some of my former colleagues last night, and I was so pleased to hear from their music teacher that my kiddos are still as funny, curious, and crazy as ever. Leaving those kids is my biggest regret about abandoning the teaching profession.
 
-Remember that technology teacher? That school _still_ hasn’t replaced him, nearly four years later, and my school is not an anomaly. Many school districts across the nation are struggling with what is known as digital equity, both within their buildings and their communities as a whole. 
+Remember that technology teacher? That school _still_ hasn’t replaced him, nearly four years later, and my school is not an anomaly. Many school districts across the nation are struggling with what is known as digital equity, both within their buildings and their communities as a whole.
 
 Recognizing this need, what can we, as developers, do? We can share our skills with our community by starting or volunteering at code clubs. As a former educator, I have a few inside tips to help you get your program up and running.
 
@@ -33,7 +32,7 @@ Before approaching a school about starting a club, you must first ask yourself a
 
 ### What age group are you comfortable working with?
 
-Do you want to teach the little ones that may not even know how to use a mouse yet, or would you rather dive right into programming with an older group? At the middle or high school level, you can probably open your club to all grade levels. However, I recommend only offering your club to no more than three levels in elementary school to narrow the range of skills. 
+Do you want to teach the little ones that may not even know how to use a mouse yet, or would you rather dive right into programming with an older group? At the middle or high school level, you can probably open your club to all grade levels. However, I recommend only offering your club to no more than three levels in elementary school to narrow the range of skills.
 
 Personally, I think the 3rd-5th grade is a perfect range for the elementary level. They have basic technology skills, have decent reading comprehension, and are wildly curious. They also tend to be a little easier on the behavior management side of things.
 
@@ -80,7 +79,7 @@ In a similar vein, does the school have a budget for extra-curricular activities
 
 ### Who’s willing to help?
 
-In my experience, most schools require a teacher or other staff member to sponsor all after-school activities. Remember, these folks are exhausted. There’s tired, and then there’s _teacher tired_. 
+In my experience, most schools require a teacher or other staff member to sponsor all after-school activities. Remember, these folks are exhausted. There’s tired, and then there’s _teacher tired_.
 
 <center>
 <img src='https://media.giphy.com/media/xRitrOTkQzvxu/source.gif' alt="Exhausted teacher"/>
@@ -95,7 +94,7 @@ If a teacher realizes their students will have extra exposure to, say, reading a
 
 ## Fill Those Seats
 
-You’ve got a venue, you have a teacher sponsor, and you are ready to go. There’s just one thing: you still need students to join your club. Code.org and Girls Who Code have some promotional resources to help you out, but the easiest way to enroll students is to show them what they will create. 
+You’ve got a venue, you have a teacher sponsor, and you are ready to go. There’s just one thing: you still need students to join your club. Code.org and Girls Who Code have some promotional resources to help you out, but the easiest way to enroll students is to show them what they will create.
 
 A few weeks before your club begins, arrange to visit the classrooms for a 15-minute presentation. Show the kids the program they will be using, some cool things they can do, and then -- here’s the kicker -- point out that Fortnight, Angry Birds, or any other game they like was created with code. Play to their interests and save 5 minutes or so to answer questions at the end.
 

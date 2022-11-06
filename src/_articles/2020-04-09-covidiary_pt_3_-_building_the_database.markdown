@@ -2,7 +2,6 @@
 layout: post
 title:      "COVIDiary pt. 3 - Building the Database"
 date:       2020-04-09 17:35:59 -0400
-permalink:  covidiary_pt_3_-_building_the_database
 image: /images/heroes/covidiary.jpg
 image_hero: /images/heroes/covidiary.jpg
 rainbow_hero: true
@@ -104,7 +103,7 @@ class CreateUsers < ActiveRecord::Migration[6.0]
 
       t.text :about
 
-      
+
 
       t.timestamps
 
@@ -164,7 +163,7 @@ class CreateEntries < ActiveRecord::Migration[6.0]
 
       t.references :user, null: false, foreign_key: true
 
-      
+
 
       # user personal assessments
 
@@ -178,12 +177,12 @@ class CreateEntries < ActiveRecord::Migration[6.0]
 
       t.text :mental_health_comments
 
-      
+
 
       # actual diary entry
 
       t.text :diary_entry
-			
+
 			t.boolean :is_public, default: false
 
       t.timestamps
@@ -206,7 +205,7 @@ Woo! We have a database! Unfortunately, it’s empty. Let’s fix that by seedin
 <img alt="Don't eat the seeds" src="https://media.giphy.com/media/7Z71Z76pCC8Za/giphy.gif">
 </center>
 
-First, we need to add the [Faker gem](https://github.com/faker-ruby/faker) so we can easily populate the database with random information. Add  `gem ‘faker’` to your Gemfile and run `bundle install` in your terminal. Next, open up your `seeds.rb` file. At the very top, we need to add `require ‘Faker’` so our new gem will work. 
+First, we need to add the [Faker gem](https://github.com/faker-ruby/faker) so we can easily populate the database with random information. Add  `gem ‘faker’` to your Gemfile and run `bundle install` in your terminal. Next, open up your `seeds.rb` file. At the very top, we need to add `require ‘Faker’` so our new gem will work.
 
 We are going to create 10 users with 3 entries each, using loops.
 
@@ -252,7 +251,7 @@ We are going to create 10 users with 3 entries each, using loops.
         mental_health_comments: Faker::Lorem.paragraphs(number: 1),
 
         diary_entry: Faker::Lorem.paragraphs(number: 4),
-				
+
 				is_public: Faker::Boolean.boolean,
 
         user_id: user.id)

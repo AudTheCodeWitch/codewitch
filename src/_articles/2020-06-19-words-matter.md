@@ -2,7 +2,6 @@
 layout: post
 date: 2020-06-19 15:43:53 -0600
 title: Words Matter
-permalink: words_matter
 image: /images/heroes/words_matter.jpg
 image_hero: /images/heroes/words_matter.jpg
 rainbow_hero: true

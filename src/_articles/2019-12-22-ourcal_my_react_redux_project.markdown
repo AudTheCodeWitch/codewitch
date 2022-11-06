@@ -2,7 +2,6 @@
 layout: post
 title:      "OurCAL: My React/Redux Project"
 date:       2019-12-22 22:40:26 +0000
-permalink:  ourcal_my_react_redux_project
 image: /images/heroes/ourcal_react.jpg
 image_hero: /images/heroes/ourcal_react.jpg
 rainbow_hero: true
@@ -27,7 +26,7 @@ The backend of my project essentially stayed the same from v0.1.0, but the front
 
 ## Challenges and Breakthroughs
 
-Leave it to me to dream up an app that is far more complicated than the project requirements. I guess I didn’t learn my lesson the last time. While the main focus of this project was to create a single-page application that uses object-oriented Javascript, that was the “easy” part. Building the relationships and fetching information from the back end came together rather quickly. The majority of my struggles this week centered on creating the crochet pattern grids themselves. 
+Leave it to me to dream up an app that is far more complicated than the project requirements. I guess I didn’t learn my lesson the last time. While the main focus of this project was to create a single-page application that uses object-oriented Javascript, that was the “easy” part. Building the relationships and fetching information from the back end came together rather quickly. The majority of my struggles this week centered on creating the crochet pattern grids themselves.
 
 
 ### **Properly Documenting the Conversion**
@@ -43,13 +42,13 @@ Now, I have records of both versions of my project, as well as a strategy to upd
 
 Let me level with you: I took the week of Thanksgiving off to spend some much-needed time with my mom in Florida. When I returned to Colorado, I did so with a nasty strain of walking pneumonia. Between the break and the fogginess caused by my medications, I really struggled to pick up React, and Redux was completely over my head. I walked into project week exhausted, confused, and terrified. I hadn’t even completed the Redux labs, and I really didn’t understand it. With the support and encouragement from my husband and friends, however, I just pushed through. Looking at it from the other side, React and Redux aren’t nearly as frightening as I first assumed.
 
-One of the most challenging aspects of React and Redux was, for me, the concept of global and local state. I watched countless videos and read so many tutorials, but it still seemed like gibberish to me. 
+One of the most challenging aspects of React and Redux was, for me, the concept of global and local state. I watched countless videos and read so many tutorials, but it still seemed like gibberish to me.
 
 <center>
   <img src='https://media.giphy.com/media/l0Iy5HPh4IKOMyXAI/giphy.gif' alt='What Does It Mean?!'>
 </center>
 
-Because of this confusion, I first built a static app populated by dummy data. Everything looked right, but nothing worked. From there, I tackled what I perceived to be the easiest bits. 
+Because of this confusion, I first built a static app populated by dummy data. Everything looked right, but nothing worked. From there, I tackled what I perceived to be the easiest bits.
 
 I focused on rendering the completed blocks. First, I created a `cardsReducer` and planned out a few actions. I figured out how to make the delete button work. After that, I configured my Redux store so I could `fetch` completed blocks from the backend.
 
@@ -127,7 +126,7 @@ let x = this.props.column + 1;
 
 I actually ended up using local state in only a few places. The most important component with local state was in my `BlockForm.js`. I used local state to create a controlled form, but the submitted data made its way to the store via the `POST_BLOCK` action.
 
-I’m still working on understanding when to use local versus global state, but the practice of actually using both my app clarified so much for me. Bottom line: if a coding concept confuses the hell out of you, just try to use it. You’ll learn so much more than from watching hours of videos. Trust yourself; you can learn this. 
+I’m still working on understanding when to use local versus global state, but the practice of actually using both my app clarified so much for me. Bottom line: if a coding concept confuses the hell out of you, just try to use it. You’ll learn so much more than from watching hours of videos. Trust yourself; you can learn this.
 
 
 ## Ideas for Improvement
@@ -141,7 +140,7 @@ If you’d like to see my app in action, watch the video here:
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/RMJ_XQH9LGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-If you’d like to take a look at my code and suggest ways I could improve it (please do!), [check out the repo](https://github.com/AudTheCodeWitch/OurCAL). 
+If you’d like to take a look at my code and suggest ways I could improve it (please do!), [check out the repo](https://github.com/AudTheCodeWitch/OurCAL).
 
 
 ## Final Thoughts
@@ -151,4 +150,3 @@ I can’t believe this Bootcamp is at its conclusion. I have learned far more th
 <center>
   <img src='https://media.giphy.com/media/8UF0EXzsc0Ckg/giphy.gif' alt='Mission Accomplished'>
 </center>
-

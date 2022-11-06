@@ -2,7 +2,6 @@
 layout: post
 title:      "COVIDiary pt. 5 - Backend Routing"
 date:       2020-05-01 21:07:44 +0000
-permalink:  covidiary_pt_5_-_backend_routing
 image: /images/heroes/covidiary.jpg
 image_hero: /images/heroes/covidiary.jpg
 rainbow_hero: true
@@ -33,12 +32,12 @@ Today, we’re going to work on the back end. By the end of today, we will have 
   <img alt="Old-fashioned switch board" src="https://media.giphy.com/media/ilqP03ohzeIJZGnnpe/source.gif">
 </center>
 
-Open your `CD-API` repository. 
+Open your `CD-API` repository.
 
 
 ## Namespace Routes
 
-We’ll start by configuring our routes. We want to add `/api` to our backend routes so we can better keep things straight. 
+We’ll start by configuring our routes. We want to add `/api` to our backend routes so we can better keep things straight.
 
 To keep our files organized, make an `/api` directory in your `/controllers` directory, and place your controllers within it.
 
@@ -108,4 +107,3 @@ At this point, you can run `rails routes` in your terminal to see all the routes
 ## Coming Up
 
 We are one step closer to hooking up our front and back ends. Next week, we’ll format our data so we can send it to our client app. We’re making progress!
-

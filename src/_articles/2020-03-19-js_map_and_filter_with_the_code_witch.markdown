@@ -2,7 +2,6 @@
 layout: post
 title:      "JS .map() and .filter() with the Code Witch"
 date:       2020-03-19 18:13:47 -0400
-permalink:  js_map_and_filter_with_the_code_witch
 image: /images/heroes/map_and_filter.jpg
 image_hero: /images/heroes/map_and_filter.jpg
 rainbow_hero: true
@@ -23,7 +22,7 @@ It’s the first day of spring! Yay for baby animals, and bumblebees, and flower
 
 </center>
 
-Despite the snow and the fact that social distancing is keeping my husband and I cooped up inside, my brain keeps wandering outdoors. While I was supposed to be planning this blog post, I was instead browsing Burpee’s online catalog and rapidly filling my shopping cart. 
+Despite the snow and the fact that social distancing is keeping my husband and I cooped up inside, my brain keeps wandering outdoors. While I was supposed to be planning this blog post, I was instead browsing Burpee’s online catalog and rapidly filling my shopping cart.
 
 So I can go upstairs and brag about how productive and NOT distracted I was today, I’m making the executive decision to use that shopping cart to learn about JavaScript’s `.map()` and `.filter()` methods. Two birds, one stone, baby!
 
@@ -34,7 +33,7 @@ Let’s start off with our shopping cart, which we’ll display as an array of o
 
 ## .map()
 
-`.map()` is an array method that executes a callback function on each element of a given array. Like `.slice()`, this method is **nondestructive**, meaning the original array will remain unchanged. It returns a new array, populated by the results of the callback function. 
+`.map()` is an array method that executes a callback function on each element of a given array. Like `.slice()`, this method is **nondestructive**, meaning the original array will remain unchanged. It returns a new array, populated by the results of the callback function.
 
 One helpful use for `.map()` is to retrieve specific information from an array of objects. Let’s start playing with our code. Hit “run” to see the output of our functions.
 

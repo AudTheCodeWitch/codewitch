@@ -2,7 +2,6 @@
 layout: post
 date: 2020-06-11 21:37:41 +0000
 title: COVIDiary pt. 10 - Our First Component
-permalink: covidiary_pt_10_-_our_first_component
 image: /images/heroes/covidiary.jpg
 image_hero: /images/heroes/covidiary.jpg
 rainbow_hero: true

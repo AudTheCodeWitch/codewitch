@@ -1,8 +1,7 @@
 ---
 layout: post
 date: 2020-07-24 16:00:00 -0600
-title: 'Course Review: FreeCodeCamp''s JavaScript Algorithms and Data Structures'
-permalink: course_review_freecodecamps_javascript_algorithms_and_data_structures'
+title: "Course Review: FreeCodeCamp's JavaScript Algorithms and Data Structures"
 image: /images/heroes/js_algorithms_and_data_structures.jpg
 image_hero: /images/heroes/js_algorithms_and_data_structures.jpg
 rainbow_hero: true
@@ -28,17 +27,17 @@ I enjoyed practicing object destructuring, like in the example below:
 ```JavaScript
 // Create a module object with 'name' and 'lessons' keys.
 const module = { name: 'ES6', lessons: 31 };
-    
+
 // Use object destructuring to create variables using the object keys.
 // The variable equals the key's value.
 const { name, lessons } = module;
   // This is the same as:
   // const name = module.name;
   // const lessons = module.lessons
-    
+
 console.log(name);
   // 'ES6'
-    
+
 console.log(lessons);
   // 31
 ```
@@ -91,12 +90,12 @@ To complete this course, learners must complete 5 difficult coding challenges. T
 <img src='https://media.giphy.com/media/89x4osEodHEoo/source.gif' alt='Kip saying, "Yes".'>
 </center>
 
-_AFTER_ you complete a final project or a lesson in one of the algorithm scripting sections, I highly recommend you visit the **Get a Hint** link in the **Get Help** dropdown. This link often provides a detailed explanation of the logic required, but my favorite part are the possible solutions listed at the bottom. We all know that, with code, there's always more than one way to skin a cat, and I found comparing my solution with the provided ones to be extremely valuable. 
+_AFTER_ you complete a final project or a lesson in one of the algorithm scripting sections, I highly recommend you visit the **Get a Hint** link in the **Get Help** dropdown. This link often provides a detailed explanation of the logic required, but my favorite part are the possible solutions listed at the bottom. We all know that, with code, there's always more than one way to skin a cat, and I found comparing my solution with the provided ones to be extremely valuable.
 
 ## Final Thoughts
 
-Overall, freeCodeCamp built an excellent course. This one would be more difficult, though not impossible, for an absolute beginner, but I believe it is perfect for a novice. 
+Overall, freeCodeCamp built an excellent course. This one would be more difficult, though not impossible, for an absolute beginner, but I believe it is perfect for a novice.
 
-My only complaint is this course does not explore the DOM or how JavaScript can be used in tandem with HTML and CSS. A separate course should be added to the freeCodeCamp platform, or this topic should be covered in either this course or the Responsive Web Design Certification.  
+My only complaint is this course does not explore the DOM or how JavaScript can be used in tandem with HTML and CSS. A separate course should be added to the freeCodeCamp platform, or this topic should be covered in either this course or the Responsive Web Design Certification.
 
 Once again, if you have ANY interest in code or web design, I highly recommend starting with [freeCodeCamp](https://www.freecodecamp.org/learn/).

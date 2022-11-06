@@ -2,7 +2,6 @@
 layout: post
 title: Upgrade Your Flatiron Blog - Part 2
 date: 2020-07-09 16:15:00 -0600
-permalink: upgrade_your_flatiron_blog_part_2
 image: /images/heroes/upgrade_blog.png
 image_hero: /images/heroes/upgrade_blog.png
 rainbow_hero: true

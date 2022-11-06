@@ -2,7 +2,6 @@
 layout: post
 title:      "COVIDiary pt. 8 - Make the Connection"
 date:       2020-05-21 19:17:10 +0000
-permalink:  covidiary_pt_8_-_make_the_connection
 image: /images/heroes/covidiary.jpg
 image_hero: /images/heroes/covidiary.jpg
 rainbow_hero: true
@@ -63,10 +62,10 @@ We’ll be working solely in `/src/App.js` today. We will write two separate, bu
 
       });
 
-    
+
 
     // fetch the first user's entries
-		
+
     fetch('http://localhost:3000/api/users/1/entries')
 
       .then(response => response.json())
@@ -97,4 +96,3 @@ We can now test our connection to our backend server! Start your server using `y
 ## Coming Up
 
 Eureka! The front and back ends are communicating with one another! Next week, we’ll shift our focus to building out the front end so we can actually see something.
-

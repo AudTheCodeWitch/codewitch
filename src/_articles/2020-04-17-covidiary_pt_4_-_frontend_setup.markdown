@@ -2,7 +2,6 @@
 layout: post
 title:      "COVIDiary pt. 4 - Frontend Setup"
 date:       2020-04-17 22:11:46 +0000
-permalink:  covidiary_pt_4_-_frontend_setup
 image: /images/heroes/covidiary.jpg
 image_hero: /images/heroes/covidiary.jpg
 rainbow_hero: true
@@ -131,7 +130,7 @@ ReactDOM.render(
 
 ```
 
-If we spun up our app right now, we’d get an error. 
+If we spun up our app right now, we’d get an error.
 
 <center>
 <img alt="Failed to compile" src="https://i.imgur.com/Z9LuGSH.jpg">
@@ -171,4 +170,3 @@ Success!
 ## Coming Up
 
 We now have the beginnings of a spectacular application. Next week, we’ll start connecting the front and back end! I know I said we’d get to user authentication this week, but I decided to break this post into a few smaller, (hopefully) more organized chunks. We’ll get there soon, I promise!
-

@@ -2,16 +2,15 @@
 layout: post
 title:      "Code the Wheel of the Year"
 date:       2020-02-27 19:12:57 -0500
-permalink:  code_the_wheel_of_the_year
 image: /images/heroes/wheel_of_the_year.jpg
 image_hero: /images/heroes/wheel_of_the_year.jpg
 rainbow_hero: true
 ---
 
 
-Today, we’re going to explore conditional logic in Ruby using the [Pagan Wheel of the Year](https://en.wikipedia.org/wiki/Wheel_of_the_Year). The Wheel of the Year is a set of eight holidays adopted by many Pagan traditions, and each holiday observes the changing of the seasons. 
+Today, we’re going to explore conditional logic in Ruby using the [Pagan Wheel of the Year](https://en.wikipedia.org/wiki/Wheel_of_the_Year). The Wheel of the Year is a set of eight holidays adopted by many Pagan traditions, and each holiday observes the changing of the seasons.
 
-This witch likes to party. Just kidding, I’m basically a recluse. 
+This witch likes to party. Just kidding, I’m basically a recluse.
 
 <center>
 <img src='https://media.giphy.com/media/THJhZHh2Eu5ws/source.gif' alt="Willow is a spaz"/>
@@ -29,7 +28,7 @@ Before we can get into the conditional logic of our program, we need to do some 
 
 ### Determine the Hemisphere
 
-Because the Wheel of the Year is an observation of the seasons, the holidays differ based on one’s location on the globe. For example, when the Northern hemisphere celebrates the winter solstice (Yule), the Southern hemisphere is celebrating the summer solstice (Litha). 
+Because the Wheel of the Year is an observation of the seasons, the holidays differ based on one’s location on the globe. For example, when the Northern hemisphere celebrates the winter solstice (Yule), the Southern hemisphere is celebrating the summer solstice (Litha).
 
 We’ll use an `if` statement in our `#hemisphere` method. Let’s quickly look at the basic syntax:
 
@@ -88,7 +87,7 @@ Back to our program:
 
 Now, we need to write two methods, `#northern` and `#southern`, which, when given a date, return the upcoming holiday. The logic for these two methods is the same, but the holidays are shifted by 6 months. To keep this brief, we’ll only talk through the `#northern` method.
 
-Before we launch into the code, let’s talk about `case` statements and ternary operators. Both of these are used to simplify `if` statements. 
+Before we launch into the code, let’s talk about `case` statements and ternary operators. Both of these are used to simplify `if` statements.
 
 
 #### Ternary Operator

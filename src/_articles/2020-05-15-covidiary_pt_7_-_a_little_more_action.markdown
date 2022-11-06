@@ -2,7 +2,6 @@
 layout: post
 title:      "COVIDiary pt. 7 - A Little More Action"
 date:       2020-05-15 20:26:37 +0000
-permalink:  covidiary_pt_7_-_a_little_more_action
 image: /images/heroes/covidiary.jpg
 image_hero: /images/heroes/covidiary.jpg
 rainbow_hero: true
@@ -178,7 +177,7 @@ end
 
 ```
 
-Are you still with me? 
+Are you still with me?
 
 <center>
   <img alt="Dr. House checking in" src="https://media.giphy.com/media/331KYDEYvSGNW/source.gif">
@@ -202,7 +201,7 @@ class Api::EntriesController < ApplicationController
 
   def index
 
-    # if there is a user in the params, only show their entries. 
+    # if there is a user in the params, only show their entries.
 
     # Otherwise, only show the public entries.
 
@@ -298,7 +297,7 @@ class Api::EntriesController < ApplicationController
   private
 
 
-  # This method allows us to find a specific user 
+  # This method allows us to find a specific user
 
   def set_user
 
@@ -332,9 +331,9 @@ class Api::EntriesController < ApplicationController
         :mental_health_comments,
 
         :diary_entry,
-				
+
         :is_public,
-				
+
 	:created_at
 
     )
@@ -349,4 +348,3 @@ end
 ## Coming Up
 
 Our back end is ready to deliver information to the Client app. Next week, we’ll test that connection with a few `fetch()` requests to make sure everything is running smoothly.
-

@@ -2,7 +2,6 @@
 layout: post
 title:      "9 Tips for Remote Work Success"
 date:       2020-02-07 23:09:58 +0000
-permalink:  9_tips_for_remote_work_success
 image: /images/heroes/remote_work.jpg
 image_hero: /images/heroes/remote_work.jpg
 rainbow_hero: true
@@ -20,7 +19,7 @@ Your physical surroundings can deeply impact the quality of your work. Take some
 
 ### 1. Separate your space
 
-If at all possible, set aside a specific area of your home that is used strictly for work. Instead of grabbing my laptop and working in whatever room I feel like each day, I’ve found I am much more productive when I “go to work,” even though that simply means I go to my office downstairs. 
+If at all possible, set aside a specific area of your home that is used strictly for work. Instead of grabbing my laptop and working in whatever room I feel like each day, I’ve found I am much more productive when I “go to work,” even though that simply means I go to my office downstairs.
 
 <center>
 <img src='https://i.imgur.com/A6tlvYD.jpg?1' alt="The Code Witch's micro-office"/>
@@ -47,7 +46,7 @@ One of the best perks of working from home is you have more autonomy. Your super
 
 ### 4. Set Specific hours
 
-One danger to working from home is how easy it is to overwork yourself. Don’t fall into the trap of working extra hours when nobody else expects you to! This is an unsustainable pattern that _will_ _lead to burnout_. 
+One danger to working from home is how easy it is to overwork yourself. Don’t fall into the trap of working extra hours when nobody else expects you to! This is an unsustainable pattern that _will_ _lead to burnout_.
 
 Instead, set specific work hours and hold yourself accountable. If you struggle with this, schedule an alarm to remind you to wrap things up 10-15 minutes before the end of your workday. Adjust your Slack settings so you don’t get notifications outside of working hours. Learn how to work and collaborate asynchronously.
 
@@ -65,11 +64,11 @@ In some ways, working from home makes it so much easier to focus. You aren’t i
 <img src='https://media.giphy.com/media/AgTV4F9UaQgNy/source.gif' alt="The Shining - You're distracting me!"/>
 </center>
 
-Instead, you are surrounded by _all of your favorite, hand-picked distractions_. You’ve got your pets, your family, your stuff (Pokemon Shield is calling my name as I write this). 
+Instead, you are surrounded by _all of your favorite, hand-picked distractions_. You’ve got your pets, your family, your stuff (Pokemon Shield is calling my name as I write this).
 
-Set yourself up for success by limiting these distractions. Pretend that Switch doesn’t exist until _after_ work. The same goes for your TV and that stack of books from the library. If you’ve got dogs, I’ve found baby gates to be an effective way to keep them both happy and out of my way while I work. 
+Set yourself up for success by limiting these distractions. Pretend that Switch doesn’t exist until _after_ work. The same goes for your TV and that stack of books from the library. If you’ve got dogs, I’ve found baby gates to be an effective way to keep them both happy and out of my way while I work.
 
-If you have children, consider hiring a sitter for the busiest hours of your day. If they are old enough to supervise themselves, set clear expectations for your children to respect your workspace and time. 
+If you have children, consider hiring a sitter for the busiest hours of your day. If they are old enough to supervise themselves, set clear expectations for your children to respect your workspace and time.
 
 
 ## I’m a Little Emotional
@@ -78,7 +77,7 @@ In my conversations with other remote workers, loneliness seems to be the common
 
 ### 7. Get out!
 
-Seriously. Leave your house. Take a walk at lunch. When you’re done for the day, go to the library or run some errands. Just because you _can_ stay in your house 24/7, 5 days a week, that doesn’t mean you _should_. In addition to regular lunchtime walks, I find getting out of the house at least once during the workweek helps me avoid going completely stir-crazy. 
+Seriously. Leave your house. Take a walk at lunch. When you’re done for the day, go to the library or run some errands. Just because you _can_ stay in your house 24/7, 5 days a week, that doesn’t mean you _should_. In addition to regular lunchtime walks, I find getting out of the house at least once during the workweek helps me avoid going completely stir-crazy.
 
 ### 8. Make some noise
 

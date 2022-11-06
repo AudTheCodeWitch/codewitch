@@ -2,7 +2,6 @@
 layout: post
 title:      "ClassReads: My Sinatra Project"
 date:       2019-09-15 17:40:53 -0400
-permalink:  classreads_my_sinatra_project
 image: /images/heroes/class_reads.jpg
 image_hero: /images/heroes/class_reads.jpg
 rainbow_hero: true
@@ -33,7 +32,7 @@ The controllers portion of my app was by far the most complicated for me. In add
 
 My `ApplicationController` handles user registration, logging in, and logging out. It also contains a few helper methods used within the application to verify a specific user’s permissions. The `StudentsController` and `TeachersController` are very similar to one another. They both have CRUD routes.
 
-The `BooksController` is the most complicated controller in my application. It has CRUD routes for books. When a book is deleted, it must also delete any associated reviews from both the reviews table and the student’s reviews array. In this way, students only have reviews for books that currently exist in the database. In addition to the CRUD routes for books, the `BooksController` also contains CRUD routes for individual reviews. 
+The `BooksController` is the most complicated controller in my application. It has CRUD routes for books. When a book is deleted, it must also delete any associated reviews from both the reviews table and the student’s reviews array. In this way, students only have reviews for books that currently exist in the database. In addition to the CRUD routes for books, the `BooksController` also contains CRUD routes for individual reviews.
 
 <center><iframe src="https://giphy.com/embed/l1AsL5D0h4RbOh5yU" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
 

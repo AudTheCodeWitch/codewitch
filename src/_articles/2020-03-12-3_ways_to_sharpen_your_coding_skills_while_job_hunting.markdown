@@ -2,7 +2,6 @@
 layout: post
 title:      "3 Ways to Sharpen your Coding Skills while Job Hunting"
 date:       2020-03-12 18:04:35 -0400
-permalink:  3_ways_to_sharpen_your_coding_skills_while_job_hunting
 image: /images/heroes/sharpen_coding_skills.jpg
 image_hero: /images/heroes/sharpen_coding_skills.jpg
 rainbow_hero: true
@@ -36,11 +35,11 @@ While I am constantly learning new things in the course of working on my project
 
 In Flatiron, I relied heavily on my cohort. When I felt my skills beginning to wane, I turned to them once more. A few weeks ago, a member of my cohort and I expressed our concerns with one another. We both missed the camaraderie and accountability we shared during the boot camp, and we resolved to remedy the situation. We decided to form a study group and open it to our entire cohort.
 
-Now, each morning, we all hop on a Zoom call and work through challenges on [CodeWars](www.codewars.com/r/RskDBA). We chose this platform for a variety of reasons, but it’s biggest draw was the number of languages available. Because I’m mostly writing Ruby in my ClassReads project right now, I complete the challenges in JavaScript. One of my friends does them in Ruby. 
+Now, each morning, we all hop on a Zoom call and work through challenges on [CodeWars](www.codewars.com/r/RskDBA). We chose this platform for a variety of reasons, but it’s biggest draw was the number of languages available. Because I’m mostly writing Ruby in my ClassReads project right now, I complete the challenges in JavaScript. One of my friends does them in Ruby.
 
-We don’t have any rules for how we complete these challenges. On some, we work through it together from start to finish. In most cases, however, we start by sharing our ideas, and then we work concurrently on our own solutions. At the end, we compare our results and do a little pair programming to support anyone still stuck. 
+We don’t have any rules for how we complete these challenges. On some, we work through it together from start to finish. In most cases, however, we start by sharing our ideas, and then we work concurrently on our own solutions. At the end, we compare our results and do a little pair programming to support anyone still stuck.
 
-While I see the value in working on projects and learning solo, this study group has been immensely beneficial to me. Because of it, I am more comfortable talking about code and explaining my thought process with others. As the saying goes, there’s more than one way to skin a cat, and comparing my work with the others has allowed me to discover elegant solutions and, ultimately, write cleaner code. 
+While I see the value in working on projects and learning solo, this study group has been immensely beneficial to me. Because of it, I am more comfortable talking about code and explaining my thought process with others. As the saying goes, there’s more than one way to skin a cat, and comparing my work with the others has allowed me to discover elegant solutions and, ultimately, write cleaner code.
 
 <center>
 <img src='https://media.giphy.com/media/z4BweLBoZ7Rsc/source.gif' alt="Not just a study group... a community"/>
@@ -49,6 +48,6 @@ While I see the value in working on projects and learning solo, this study group
 More than anything, however, the study group reminds me that I’m not coding in a vacuum; by becoming a software engineer, I joined a community. Though I am not yet on anyone’s payroll, I still have a team, and we will continue to collaborate and support one another.
 
 
-## Just Keep At It! 
+## Just Keep At It!
 
 If you are also slogging your way through a job search, remember to spend time actually writing code. I personally find that working on a project, learning something new, and studying with my friends is the precise mixture I need to keep me motivated and excited to power up my computer each morning. Whatever you do, keep plugging away. That job is right around the corner and, who knows? You may just create something spectacular in the interim.

@@ -2,16 +2,15 @@
 layout: post
 title:      "Callback Functions with the Code Witch"
 date:       2020-01-23 20:07:38 +0000
-permalink:  callback_functions_with_the_code_witch
 image: /images/heroes/callbacks.jpg
 image_hero: /images/heroes/callbacks.jpg
 rainbow_hero: true
 ---
 
 
-The code witch, now well-versed in [JavaScript closures](https://audthecodewitch.github.io/closures_with_the_code_witch), turned to a blank page in her spellbook. As she pondered the topic for her next entry, the little code witch recalled her technical interview. 
+The code witch, now well-versed in [JavaScript closures](https://audthecodewitch.github.io/closures_with_the_code_witch), turned to a blank page in her spellbook. As she pondered the topic for her next entry, the little code witch recalled her technical interview.
 
-“Of all the topics we discussed, which one was the most embarrassingly obvious?” she mused. “Which one nearly drove me to cast an Unforgivable Curse on myself when I finally matched the term to the code concept?” 
+“Of all the topics we discussed, which one was the most embarrassingly obvious?” she mused. “Which one nearly drove me to cast an Unforgivable Curse on myself when I finally matched the term to the code concept?”
 
 She thought for a moment longer and, with a grim smile, began to write:
 
@@ -20,7 +19,7 @@ She thought for a moment longer and, with a grim smile, began to write:
 
 Callback functions occur frequently in JavaScript. In fact, their presence can be so common that they are easily overlooked. However, callbacks are a powerful bit of code magic, and they are not to be taken lightly.
 
-Put simply, a callback is a function that is passed as an argument inside another function. The callback is then invoked within that parent function. 
+Put simply, a callback is a function that is passed as an argument inside another function. The callback is then invoked within that parent function.
 
 
 ### Magic Using Callbacks
@@ -82,7 +81,7 @@ Callbacks can be used in both synchronous and asynchronous code. In both example
 
 ### Danger!
 
-Callbacks are pretty straightforward, but beware of “Callback Hell,” also known as the “Pyramid of Doom.” Callback functions can also take arguments, including other callback functions. This can lead to deeply nested functions that are inefficient and often difficult to debug. 
+Callbacks are pretty straightforward, but beware of “Callback Hell,” also known as the “Pyramid of Doom.” Callback functions can also take arguments, including other callback functions. This can lead to deeply nested functions that are inefficient and often difficult to debug.
 
 <center>
 <img src='https://media.giphy.com/media/12nfFCZA0vyrSw/source.gif' alt="Ron Weasley Grimacing"/>
@@ -100,4 +99,3 @@ I found these articles to be particularly helpful in my research. If you are loo
 1. [MDN](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function) - Of course I’m sending you to the docs.
 2. [JavaScript is Sexy](https://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/) - I mean, they’re right. And they also have a pretty detailed description of callbacks.
 3. [Callback Hell](http://callbackhell.com/) - Here’s a deeper look at the dangers of too many callbacks.
-

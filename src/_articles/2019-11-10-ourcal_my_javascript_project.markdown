@@ -2,7 +2,6 @@
 layout: post
 title:      "OurCAL: My Javascript Project"
 date:       2019-11-10 20:56:31 -0500
-permalink:  ourcal_my_javascript_project
 image: /images/heroes/ourcal_js.jpg
 image_hero: /images/heroes/ourcal_js.jpg
 rainbow_hero: true
@@ -14,11 +13,11 @@ Hello, friends! I can’t believe it’s time for yet another project review. Th
 
 ## Choosing a Project
 
-In keeping with my initial goal to have each project reflect my passions, I chose to do my Javascript project on something near and dear to my heart: crochet. My grandmothers taught me to crochet as a little girl, and I’ve developed my craft ever since. Through the years, I have relied on this hobby to soothe my stresses and occupy my fidgety hands. 
+In keeping with my initial goal to have each project reflect my passions, I chose to do my Javascript project on something near and dear to my heart: crochet. My grandmothers taught me to crochet as a little girl, and I’ve developed my craft ever since. Through the years, I have relied on this hobby to soothe my stresses and occupy my fidgety hands.
 
-One of the most surprising and lovely things about crochet is its amazing online community. From Pinterest and Ravelry, to Facebook groups and a whole host of wonderful blogs, there are a myriad of free resources for my fellow crochet enthusiasts. Of these, Crochet-Alongs, or CALs, for short, are perhaps the most fun. 
+One of the most surprising and lovely things about crochet is its amazing online community. From Pinterest and Ravelry, to Facebook groups and a whole host of wonderful blogs, there are a myriad of free resources for my fellow crochet enthusiasts. Of these, Crochet-Alongs, or CALs, for short, are perhaps the most fun.
 
-In a CAL, crocheters from around the world work on the same project at once, celebrating one another’s differences and creativity as well as teaching and supporting new members of the hobby. I have participated in the [MooglyCAL](https://www.mooglyblog.com/cal-2019-1/) several times, and it inspired me to create my own. 
+In a CAL, crocheters from around the world work on the same project at once, celebrating one another’s differences and creativity as well as teaching and supporting new members of the hobby. I have participated in the [MooglyCAL](https://www.mooglyblog.com/cal-2019-1/) several times, and it inspired me to create my own.
 
 Similar to the MooglyCAL’s use of unique artists for each segment of their pattern, I wanted a CAL designed for and by the participants. With OurCAL, users design a block, which will typically work up to about a 12” square, and share it with the entire community. Crocheters can then follow the basic corner-to-corner stitch pattern to make whichever blocks they choose! I’m excited to see this app deployed and used by my crochet pals.
 
@@ -33,7 +32,7 @@ Being a Javascript project, the majority of my work this week dealt with the fro
 
 ## Challenges and Breakthroughs
 
-Leave it to me to dream up an app that is far more complicated than the project requirements. I guess I didn’t learn my lesson the last time. While the main focus of this project was to create a single-page application that uses object-oriented Javascript, that was the “easy” part. Building the relationships and fetching information from the back end came together rather quickly. The majority of my struggles this week centered on creating the crochet pattern grids themselves. 
+Leave it to me to dream up an app that is far more complicated than the project requirements. I guess I didn’t learn my lesson the last time. While the main focus of this project was to create a single-page application that uses object-oriented Javascript, that was the “easy” part. Building the relationships and fetching information from the back end came together rather quickly. The majority of my struggles this week centered on creating the crochet pattern grids themselves.
 
 
 ### Creating a Blank Grid
@@ -209,7 +208,7 @@ const colorPixels = function(blank, pixels) {
 
 With these functions in place, fetching the blocks from the database works like a charm!
 
- 
+
 
 
 ## Ideas for Improvement
@@ -228,4 +227,3 @@ If you’d like to see my app in action, watch the video here:
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Q4ZJAEO2FJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 If you’d like to take a look at my code and suggest ways I could improve it (please do!), [check out the repo](https://github.com/AudTheCodeWitch/OurCAL).
-

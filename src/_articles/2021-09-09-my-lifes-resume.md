@@ -2,7 +2,6 @@
 layout: post
 date: 2021-09-09 12:30:00 -0600
 title: "My Life's Resume"
-# permalink: my_lifes_resume
 image: /images/heroes/space1.png
 image_hero: /images/heroes/space1.png
 rainbow_hero: true

@@ -2,7 +2,6 @@
 layout: post
 title:      "COVIDiary pt. 6 - Formatting Data"
 date:       2020-05-07 15:54:52 -0400
-permalink:  covidiary_pt_6_-_formatting_data
 image: /images/heroes/covidiary.jpg
 image_hero: /images/heroes/covidiary.jpg
 rainbow_hero: true
@@ -30,7 +29,7 @@ Are you ready? Let’s do this.
   <img alt="Let’s do this!" src="https://media.giphy.com/media/JykvbWfXtAHSM/giphy.gif">
 </center>
 
-Open your `CD-API` repository. 
+Open your `CD-API` repository.
 ## 1. Add Gems
 We need to add two more gems to our `Gemfile` to help the front and back ends communicate properly.
 
@@ -68,7 +67,7 @@ gem ‘fast_jsonapi’
 That’s it! Now that we’ve added both gems, let’s install them by running `bundle install` in your terminal. You can also start up your backend server now using `rails s`.
 
 ## 2. Generate Serializers
-We need a serializer for both our `Entries` and our `Users`. 
+We need a serializer for both our `Entries` and our `Users`.
 
 <center>
   <img alt="Get that cereal!" src="https://media.giphy.com/media/3o85xKRIokv92FRo52/source.gif">
@@ -86,7 +85,7 @@ You will now have a `serializers` directory in your `app` directory, and it will
 ```ruby
 class EntrySerializer
   include FastJsonapi::ObjectSerializer
-  attributes 
+  attributes
 end
 ```
 
@@ -132,4 +131,3 @@ attributes :id,
 ```
 ## Coming Up
 We now have serializers to properly format our data for future `fetch()` requests!! Next week, we’ll create our controller actions so we can finally connect to the front end!
-

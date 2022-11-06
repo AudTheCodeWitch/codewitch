@@ -2,7 +2,6 @@
 layout: post
 date: 2020-07-03 13:43:35 -0600
 title: Independence Day Fun With JavaScript
-permalink: independence_day_fun_with_javascript
 image: /images/heroes/fireworks.jpg
 image_hero: /images/heroes/fireworks.jpg
 rainbow_hero: true
@@ -39,7 +38,7 @@ on <a href="https://codepen.io">CodePen</a>.</span>
 
 ## The `stars()` Function
 
-This function will create our blue union with the 9 rows of white stars. The stars are FontAwesome icons.Please note the location of union within our flag container is determined by the CSS `#union` id. 
+This function will create our blue union with the 9 rows of white stars. The stars are FontAwesome icons.Please note the location of union within our flag container is determined by the CSS `#union` id.
 
 <p class="codepen" data-height="500" data-theme-id="dark" data-default-tab="js,result" data-user="audthecodewitch" data-slug-hash="bGEaJXz" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="US Flag (Stars)">
 <span>See the Pen <a href="https://codepen.io/audthecodewitch/pen/bGEaJXz">

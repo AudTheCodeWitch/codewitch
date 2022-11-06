@@ -2,7 +2,6 @@
 layout: post
 title:      "What to Do When It All Sucks Eggs"
 date:       2019-10-07 16:11:26 -0400
-permalink:  what_to_do_when_it_all_sucks_eggs
 image: /images/heroes/growth_mindset.jpg
 image_hero: /images/heroes/growth_mindset.jpg
 rainbow_hero: true
@@ -22,7 +21,7 @@ Except that’s crazy. I’m not being kind or even remotely fair to myself. I�
 
 If you didn’t watch the video, you are missing out on copious amounts of cuteness. Go watch it. I’ll wait.
 
-I loved showing this video to my students every year. It always sparked a deep conversation. Students who typically struggled in math or reading were shocked when the “brainiacs” revealed their own insecurities about learning. The higher-performing kiddos found themselves being supported and encouraged by their peers. For months after our discussion, I would hear my compassionate little scholars saying things like, “It’s ok. You just don’t get it yet. You will! Remember when we were both stuck on number bonds?” And my heart grew three sizes each time. 
+I loved showing this video to my students every year. It always sparked a deep conversation. Students who typically struggled in math or reading were shocked when the “brainiacs” revealed their own insecurities about learning. The higher-performing kiddos found themselves being supported and encouraged by their peers. For months after our discussion, I would hear my compassionate little scholars saying things like, “It’s ok. You just don’t get it yet. You will! Remember when we were both stuck on number bonds?” And my heart grew three sizes each time.
 
 
 ## Change Your Mindset
@@ -37,7 +36,7 @@ Having a growth mindset means you believe you can get smarter, understand more, 
 
 ### 2. Shake it Off
 
-In the elementary school setting, teachers are encouraged to provide one- to five-minute movement breaks every hour. In my classroom, this often meant a few yoga stretches or a quick dance party! Giving my students the opportunity to “get the wiggles out” helped them refocus and get back to work with renewed energy. In the realm of adults, the popular Pomodoro technique suggests working in 25-minute bursts with 5-minute breaks in between. While I don’t follow a specific work-break schedule, I try to get up and move around at least once an hour. 
+In the elementary school setting, teachers are encouraged to provide one- to five-minute movement breaks every hour. In my classroom, this often meant a few yoga stretches or a quick dance party! Giving my students the opportunity to “get the wiggles out” helped them refocus and get back to work with renewed energy. In the realm of adults, the popular Pomodoro technique suggests working in 25-minute bursts with 5-minute breaks in between. While I don’t follow a specific work-break schedule, I try to get up and move around at least once an hour.
 
 
 <center><iframe src="https://giphy.com/embed/GoWH9YV4t3n4Q" width="480" height="323" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
@@ -60,5 +59,4 @@ If you just can’t think of anything nice to say to yourself, reach out to your
 <center><iframe src="https://giphy.com/embed/URCzmzLXfQIBG" width="480" height="244" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
 
 
-As a teacher, I spent hours developing a growth mindset culture inside my classroom. We talked about the “Power of Yet,” the idea that when we learn, we are actively [growing our brains](https://charterforcompassion.org/the-brain-science-behind-learning). As it turns out, I forgot the lessons I was once so proud of teaching. I just don’t get it YET, but I will. What seemed impossible in June is second-nature today. This will be, too. 
-
+As a teacher, I spent hours developing a growth mindset culture inside my classroom. We talked about the “Power of Yet,” the idea that when we learn, we are actively [growing our brains](https://charterforcompassion.org/the-brain-science-behind-learning). As it turns out, I forgot the lessons I was once so proud of teaching. I just don’t get it YET, but I will. What seemed impossible in June is second-nature today. This will be, too.

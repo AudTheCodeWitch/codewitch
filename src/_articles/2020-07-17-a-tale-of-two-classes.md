@@ -2,7 +2,6 @@
 layout: post
 date: 2020-07-17 11:06:31 -0600
 title: A Tale of Two Classes
-permalink: a_tale_of_two_classes
 image: /images/heroes/two_classes.jpg
 image_hero: /images/heroes/two_classes.jpg
 rainbow_hero: true

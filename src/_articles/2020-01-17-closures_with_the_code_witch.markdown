@@ -2,7 +2,6 @@
 layout: post
 title:      "Closures with the Code Witch"
 date:       2020-01-17 22:13:56 +0000
-permalink:  closures_with_the_code_witch
 image: /images/heroes/closures.jpg
 image_hero: /images/heroes/closures.jpg
 rainbow_hero: true
@@ -25,9 +24,9 @@ Here is her first entry:
 
 ## JavaScript Closures
 
-If you have written any JavaScript, chances are, you’ve used a closure, possibly without even realizing it. But what is a closure? Basically, a closure is a function nested within and returned by another function. 
+If you have written any JavaScript, chances are, you’ve used a closure, possibly without even realizing it. But what is a closure? Basically, a closure is a function nested within and returned by another function.
 
-Consider lexical scoping. A closure’s scope has at least three levels: 
+Consider lexical scoping. A closure’s scope has at least three levels:
 1. Its own, local scope
 2. Its parent scope (and any grandparents)
 3. The global scope
@@ -70,4 +69,3 @@ I am far from an expert on Javascript closures, but I certainly know more after 
 1. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) - My husband is a technical writer, folks. Always look at the docs. Somebody worked hard to answer your questions before you even thought to ask them.
 2. [W3Schools](https://www.w3schools.com/js/js_function_closures.asp) - Their JavaScript Closures lesson is short and sweet, with a clear, practical example.
 3. [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36) - This article is the first of several super informative pieces on common JavaScript interview questions. I recommend reading all of them.
-

@@ -2,7 +2,6 @@
 layout: post
 date: 2021-06-11 14:30:00 -0600
 title: 'Temp Convert: a React Project'
-permalink: temp_convert_a_react_project
 image: /images/heroes/temp_convert.jpg
 image_hero: /images/heroes/temp_convert.jpg
 rainbow_hero: true
@@ -11,9 +10,9 @@ rainbow_hero: true
 Dusting the ol' blog off to share a fun project I built this week. This was a fun coding
 challenge presented to me by a prospective employer (that's right, friends. I'm looking for my next gig), and I couldn't
 *not* share it with you, my devoted ~~crickets~~ readers. Allow me to present Temp Convert, a simple React SPA
-that takes a temperature in one scale (Fahrenheit or Celsius) and converts it to the opposite scale. 
+that takes a temperature in one scale (Fahrenheit or Celsius) and converts it to the opposite scale.
 
-**Note: the rest of this is copied straight from my project's [README](https://github.com/AudTheCodeWitch/temp-convert). 
+**Note: the rest of this is copied straight from my project's [README](https://github.com/AudTheCodeWitch/temp-convert).
 It's Friday, y'all!**
 
 ### ✨ [Demo](https://affectionate-mcnulty-5e14aa.netlify.app)

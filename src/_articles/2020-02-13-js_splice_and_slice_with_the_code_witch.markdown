@@ -2,7 +2,6 @@
 layout: post
 title:      "JS .splice() and .slice() with the Code Witch"
 date:       2020-02-13 14:11:59 -0500
-permalink:  js_splice_and_slice_with_the_code_witch
 image: /images/heroes/splice_and_slice.jpg
 image_hero: /images/heroes/splice_and_slice.jpg
 rainbow_hero: true
@@ -18,8 +17,8 @@ Tomorrow is Valentine’s Day, so today, we’re talking about love. When it com
 
 Two of these methods, `.splice()` and `.slice()` are powerful tools that sound similar but are very different. To reveal the magic of these methods, let’s take an array of love potions. Feel free to follow along in your console:
 
-```javascript 
-let lovePotions = ["No.1", "No.2", "No.3", "No.4", "No.5", "No.6", "No.7", "No.8", "No.9", "No.10"] 
+```javascript
+let lovePotions = ["No.1", "No.2", "No.3", "No.4", "No.5", "No.6", "No.7", "No.8", "No.9", "No.10"]
 ```
 
 
@@ -33,8 +32,8 @@ The JavaScript array method, `.splice()`, is used for adding and/or removing ele
 
 Let’s play with our potions. First, we’ll take a look at the format for `.splice()`:
 
-```javascript 
-// array.splice(index, numberToDelete, ...addedElements) 
+```javascript
+// array.splice(index, numberToDelete, ...addedElements)
 ```
 
 We don’t want Love Potion No.3. It has some… unexpected results.
@@ -60,7 +59,7 @@ console.log(lovePotions)
 
 Instead of Love Potion No.3, let’s substitute it with a few new concoctions:
 
-```javascript 
+```javascript
 // Note the second parameter is 0 because we don’t want to remove any elements.
 
 lovePotions.splice(2, 0, "No.11", "No.12")
@@ -78,7 +77,7 @@ console.log(lovePotions)
 
 Oops! Those potions were WAY more havoc-wreaking than No.3. Let’s get rid of them and put No.3 back where it belongs. Pay attention to the second and third parameters, here. We’re _deleting_ two elements and _adding_ one:
 
-```javascript 
+```javascript
 lovePotions.splice(2, 2, “No.3”)
 
 // Returns our removed potions, ["No.11", "No.12"]
@@ -92,7 +91,7 @@ console.log(lovePotions)
 
 After much testing, we’ve found our best potion. Let’s set it aside for later:
 
-```javascript 
+```javascript
 let best = lovePotions.splice(8, 1)
 
 
@@ -129,7 +128,7 @@ JavaScript’s array method, `.slice()`, is used to select a specific number of 
 
 We know a few potions work. Let’s create a separate list for them:
 
-```javascript 
+```javascript
 let workingPotions = lovePotions.slice(3, 8)
 
 // Can you figure out which potions work? Take a guess.
@@ -159,7 +158,7 @@ console.log(lovePotions)
 
 If you don’t specify the first parameter, `.slice()` starts at the beginning of the array.
 
-```javascript 
+```javascript
 lovePotions.slice(null, 3)
 
 // Returns ["No.1", "No.2", "No.3"]
@@ -207,7 +206,7 @@ console.log(workingPotions)
 
 Potions No.1 and No.2 simply don’t work.
 
-```javascript 
+```javascript
 let brokenPotions = lovePotions.slice(0, 2)
 
 // Returns ["No.1", "No.2"]
@@ -216,7 +215,7 @@ let brokenPotions = lovePotions.slice(0, 2)
 
 Through some unfortunate trials, we discovered that potions No.3 and No.10 are toxic. Let’s use both methods we’ve learned today.
 
-```javascript 
+```javascript
 // First, we’ll create a copy of the lovePotions array, starting at potion No.3 and ending at No.10.
 
 let toxicPotions = lovePotions.slice(2)
@@ -239,7 +238,7 @@ console.log(toxicPotions)
 
 Now that we’ve grouped our potions, let’s use `.splice()` to add them to our `rankedPotions` array. We aren’t removing any elements, so the first two arguments will be 0. The remaining parameters are the variables we’ve created, in the order we want them.
 
-```javascript 
+```javascript
 rankedPotions.splice(0, 0, bestPotion, workingPotions, brokenPotions, toxicPotions)
 
 // Returns [ ]
@@ -265,7 +264,7 @@ console.log(rankedPotions)
 
 Whoa! We don’t want the customers to see the potions lumped into separate groups. They might get a bit suspicious. Let’s flatten that out.
 
-```javascript 
+```javascript
 rankedPotions = rankedPotions.flat()
 
 // Returns ["No.9", "No.4", "No.5", "No.6", "No.7", "No.8", "No.1", "No.2", "No.3", "No.10"]
@@ -277,4 +276,3 @@ Beautiful! Now we have all our love potions ready to go! Whether you have a Vale
 <center>
 <img src='https://media.giphy.com/media/l0HUdL0aZXLBNXy2A/source.gif' alt="You're my type Valentine"/>
 </center>
-
