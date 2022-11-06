@@ -19,11 +19,15 @@
 
 url: "https://codewitch.dev" # the base hostname & protocol for your site, e.g. https://example.com
 
-permalink: pretty
+permalink: simple
 pagination:
   enabled: true
 template_engine: liquid
 timezone: America/New_York
+collections:
+  articles:
+    output: true
+    permalink: simple
 
 # Other options you might want to investigate:
 #

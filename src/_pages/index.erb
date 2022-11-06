@@ -27,9 +27,9 @@ rainbow_hero: true
 
 </div>
 
-<% posts = collections.posts.resources[0..3] %>
-<%= liquid_render "bulmatown/collection", collection: posts, metadata: site.metadata %>
+<% articles = collections.articles.resources.reverse[0..3] %>
+<%= liquid_render "bulmatown/collection", collection: articles, metadata: site.metadata %>
 
-<% if collections.posts.resources.size > 4 %>
+<% if collections.articles.resources.size > 4 %>
   <a href="/posts/" class="button is-primary is-outlined is-small"><span>Previous Articles</span> <span class="icon"><i class="fa fa-arrow-right"></i></span></a>
 <% end %>
