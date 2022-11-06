@@ -12,13 +12,13 @@ Welcome to Part 7 of the COVIDiary project! If you’re just joining us or misse
 
 
 
-*   [Part 1: Project Introduction](https://www.codewitch.dev/covidiary_-_a_rails_react_project)
-*   [Part 2: Initial Setup](https://www.codewitch.dev/covidiary_part_2_-_initial_setup)
-*   [Part 3: Building the Database](https://www.codewitch.dev/covidiary_pt_3_-_building_the_database)
-*   [Part 4: Frontend Setup](https://www.codewitch.dev/covidiary_pt_4_-_frontend_setup)
-*   [Part 4.5: Database Fixes](https://www.codewitch.dev/covidiary_pt_4_5_-_database_fixes)
-*   [Part 5: Backend Routing](https://www.codewitch.dev/covidiary_pt_5_-_backend_routing)
-*   [Part 6: Formatting Data](https://www.codewitch.dev/covidiary_pt_6_-_formatting_data)
+- [Part 1: Project Introduction](/articles/covidiary-a-rails-react-project)
+- [Part 2: Initial Setup](/articles/covidiary-pt-2-initial-setup)
+- [Part 3: Building the Database](/articles/covidiary-pt-3-building-the-database)
+- [Part 4: Frontend Setup](/articles/covidiary-pt-4-frontend-setup)
+- [Part 4.5: Database Fixes](/articles/covidiary-pt-4.5-database-fixes)
+- [Part 5: Backend Routing](/articles/covidiary-pt-5-backend-routing)
+- [Part 6: Formatting Data](/articles/covidiary-pt-6-formatting-data)
 
 This week, we’re going to continue work on the back end, in `CD-API`. By the end of today, we will have basic CRUD actions for our Users and their Entries.
 

@@ -16,10 +16,10 @@ Welcome to Part 4.5 of the COVIDiary project! If you’re just joining us or mis
 
 
 
-*   [Part 1: Project Introduction](https://www.codewitch.dev/covidiary_-_a_rails_react_project)
-*   [Part 2: Initial Setup](https://www.codewitch.dev/covidiary_part_2_-_initial_setup)
-*   [Part 3: Building the Database](https://www.codewitch.dev/covidiary_pt_3_-_building_the_database)
-*   [Part 4: Frontend Setup](https://www.codewitch.dev/covidiary_pt_4_-_frontend_setup)
+- [Part 1: Project Introduction](/articles/covidiary-a-rails-react-project)
+- [Part 2: Initial Setup](/articles/covidiary-pt-2-initial-setup)
+- [Part 3: Building the Database](/articles/covidiary-pt-3-building-the-database)
+- [Part 4: Frontend Setup](/articles/covidiary-pt-4-frontend-setup)
 
 This week, we’re going to work on our PostgreSQL database in the `CD-api` directory. By the end of today, we will:
 

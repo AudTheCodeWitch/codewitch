@@ -11,8 +11,8 @@ rainbow_hero: true
 Welcome to Week 3 of the COVIDiary project! If you’re just joining us or missed a post, here’s what we’ve done so far:
 
 
-*   [Part 1: Project Introduction](https://www.codewitch.dev/covidiary_-_a_rails_react_project)
-*   [Part 2: Initial Setup](https://www.codewitch.dev/covidiary_part_2_-_initial_setup)
+- [Part 1: Project Introduction](/articles/covidiary-a-rails-react-project)
+- [Part 2: Initial Setup](/articles/covidiary-pt-2-initial-setup)
 
 This week, our focus will be on the back end. All work will be completed in the COVIDiary-api repository. By the end of today, we will:
 

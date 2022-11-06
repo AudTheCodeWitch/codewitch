@@ -8,7 +8,7 @@ rainbow_hero: true
 ---
 
 
-Welcome to Week 2 of the COVIDiary project! If you are new, start at the beginning [here.](https://www.codewitch.dev/covidiary_-_a_rails_react_project)
+Welcome to Week 2 of the COVIDiary project! If you are new, start at the beginning [here.](/articles/covidiary-a-rails-react-project)
 
 In an effort to thoroughly document the COVIDiary build process, we are starting at the very beginning this week, laying the groundwork for our project. I am sharing the order in which I completed these tasks, though I realize there are multiple other approaches you could take. Do what works for you.
 

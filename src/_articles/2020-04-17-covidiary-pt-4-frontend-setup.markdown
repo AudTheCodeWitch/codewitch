@@ -10,9 +10,9 @@ rainbow_hero: true
 
 Welcome to Week 4 of the COVIDiary project! If you’re just joining us or missed a post, here’s what we’ve done so far:
 
-*   [Part 1: Project Introduction](https://www.codewitch.dev/covidiary_-_a_rails_react_project)
-*   [Part 2: Initial Setup](https://www.codewitch.dev/covidiary_part_2_-_initial_setup)
-*   [Part 3: Building the Database](https://www.codewitch.dev/covidiary_pt_3_-_building_the_database)
+- [Part 1: Project Introduction](/articles/covidiary-a-rails-react-project)
+- [Part 2: Initial Setup](/articles/covidiary-pt-2-initial-setup)
+- [Part 3: Building the Database](/articles/covidiary-pt-3-building-the-database)
 
 This week, our focus will be on the front end. All work will be completed in the COVIDiary-client repository. By the end of today, we will:
 

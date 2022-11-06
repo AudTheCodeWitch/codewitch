@@ -8,16 +8,16 @@ rainbow_hero: true
 ---
 Welcome to Part 10 of the COVIDiary project! If you’re just joining us or missed a post, here’s what we’ve done so far:
 
-* [Part 1: Project Introduction](https://www.codewitch.dev/covidiary_-_a_rails_react_project)
-* [Part 2: Initial Setup](https://www.codewitch.dev/covidiary_part_2_-_initial_setup)
-* [Part 3: Building the Database](https://www.codewitch.dev/covidiary_pt_3_-_building_the_database)
-* [Part 4: Frontend Setup](https://www.codewitch.dev/covidiary_pt_4_-_frontend_setup)
-* [Part 4.5: Database Fixes](https://www.codewitch.dev/covidiary_pt_4_5_-_database_fixes)
-* [Part 5: Backend Routing](https://www.codewitch.dev/covidiary_pt_5_-_backend_routing)
-* [Part 6: Formatting Data](https://www.codewitch.dev/covidiary_pt_6_-_formatting_data)
-* [Part 7: A Little More Action](https://www.codewitch.dev/covidiary_pt_7_-_a_little_more_action)
-* [Part 8: Make the Connection](https://www.codewitch.dev/covidiary_pt_8_-_make_the_connection)
-* [Part 9: UX Design](https://www.codewitch.dev/covidiary_pt_9_-_ux_design)
+- [Part 1: Project Introduction](/articles/covidiary-a-rails-react-project)
+- [Part 2: Initial Setup](/articles/covidiary-pt-2-initial-setup)
+- [Part 3: Building the Database](/articles/covidiary-pt-3-building-the-database)
+- [Part 4: Frontend Setup](/articles/covidiary-pt-4-frontend-setup)
+- [Part 4.5: Database Fixes](/articles/covidiary-pt-4.5-database-fixes)
+- [Part 5: Backend Routing](/articles/covidiary-pt-5-backend-routing)
+- [Part 6: Formatting Data](/articles/covidiary-pt-6-formatting-data)
+- [Part 7: A Little More Action](/articles/covidiary-pt-7-a-little-more-action)
+- [Part 8: Make the Connection](/articles/covidiary-pt-8-make-the-connection)
+- [Part 9: UX Design](/articles/covidiary-pt-9-ux-design)
 
 This week, we’re FINALLY writing code that will actually render in our browser! Today, we’re going to build our `Footer` component. Though it’s a relatively simple piece of our application, I decided to start with it for a few reasons. First, the `Footer` is the only page element that will be consistent throughout our entire application. It also gives us the opportunity to practice using a few tools that will be used extensively in the coming weeks. Finally, its simplicity allows us to focus on some React basics without having to worry about the more nuanced aspects.
 
