@@ -25,7 +25,7 @@ LinkedIn to wracking my brain trying to remember the most important projects I a
 super stressful, and none of it felt natural.
 
 Thinking over my time at Raise.dev, I can vaguely remember a few standout projects. I built
-[Raise.dev/LIVE](https://raise.dev/live#) as my first solo PR, created (probably over-complicated) progress boards for
+Raise.dev/LIVE as my first solo PR, created (probably over-complicated) progress boards for
 our user dashboard, helped eliminate bot abuse of our registration form, and I worked to streamline and speed up our
 test suite.
 
