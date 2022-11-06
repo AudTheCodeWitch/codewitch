@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b62ed158-3eff-4796-b419-b43342f5568f/deploy-status)](https://app.netlify.com/sites/audthecodewitch/deploys)
+
+
 # Bridgetown Website README
 
 Welcome to your new Bridgetown website! You can update this README file to provide additional context and setup information for yourself or other contributors.
