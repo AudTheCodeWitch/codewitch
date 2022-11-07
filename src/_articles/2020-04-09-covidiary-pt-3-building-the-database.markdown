@@ -1,27 +1,23 @@
 ---
 layout: post
-title:      "COVIDiary pt. 3 - Building the Database"
-date:       2020-04-09 17:35:59 -0400
+title: "COVIDiary pt. 3 - Building the Database"
+date: 2020-04-09 17:35:59 -0400
 image: /images/heroes/covidiary.jpg
 image_hero: /images/heroes/covidiary.jpg
 rainbow_hero: true
 ---
 
-
 Welcome to Week 3 of the COVIDiary project! If you’re just joining us or missed a post, here’s what we’ve done so far:
-
 
 - [Part 1: Project Introduction](/articles/covidiary-a-rails-react-project)
 - [Part 2: Initial Setup](/articles/covidiary-pt-2-initial-setup)
 
 This week, our focus will be on the back end. All work will be completed in the COVIDiary-api repository. By the end of today, we will:
 
-
-*   Create our Rails API
-*   Initialize the PostgreSQL database
-*   Add User and Entry models
-*   Seed the database with dummy data
-
+- Create our Rails API
+- Initialize the PostgreSQL database
+- Add User and Entry models
+- Seed the database with dummy data
 
 ## 1. Create the Rails API
 
@@ -39,7 +35,6 @@ It may take a few seconds, but you’ll soon see Rails automatically created a w
 <img alt="Make it dance." src="https://media.giphy.com/media/DKnWsb0xinyE0/source.gif">
 </center>
 
-
 ## 2. Database Initialization
 
 Now, let’s get our database up and running. This is an easy one. In your terminal, enter:
@@ -47,7 +42,6 @@ Now, let’s get our database up and running. This is an easy one. In your termi
 ```
 rails db:create
 ```
-
 
 ## 3. Add User Resource
 
@@ -61,16 +55,13 @@ rails g resource user
 
 You should see something along these lines:
 
-
-
 <center>
 <img alt="Files created by `rails g resource user`" src="https://imgur.com/0ROqvFj.jpg">
 </center>
 
-
 Now, open that `create_users` migration file you just created (the first one in the screenshot). We’re going to add some information to our User table.
 
-* Update 4.24.2020 - I changed the boolean name, `essential?` to reflect best practices. You can see my explanation [here](https://www.codewitch.dev/covidiary_pt_4_5_-_database_fixes). *
+_Update 4.24.2020 - I changed the boolean name, `essential?` to reflect best practices. You can see my explanation [here](/articles/covidiary-pt-4.5-database-fixes)._
 
 ```ruby
 class CreateUsers < ActiveRecord::Migration[6.0]
@@ -116,11 +107,9 @@ end
 
 Once you’ve got all the table columns entered, run `rails db:migrate` to add the User table to your database. You should see something like this:
 
-
 <center>
 <img alt="Successful migration" src="https://i.imgur.com/VvySS7F.jpg">
 </center>
-
 
 ## 4. Add Entry Resource
 
@@ -152,7 +141,7 @@ end
 
 Now, let’s add some extra information to our `create_entries` migration:
 
-*Update 4.24.2020 - I changed the boolean name, `symptoms_present?` to reflect best practices. I also added the boolean, `is_public`. You can see my explanation [here](https://www.codewitch.dev/covidiary_pt_4_5_-_database_fixes).*
+_Update 4.24.2020 - I changed the boolean name, `symptoms_present?` to reflect best practices. I also added the boolean, `is_public`. You can see my explanation [here](/articles/covidiary-pt-4.5-database-fixes)._
 
 ```ruby
 class CreateEntries < ActiveRecord::Migration[6.0]
@@ -196,7 +185,6 @@ end
 
 Once that’s done, run `rails db:migrate` again to add your Entry table to the database.
 
-
 ## 5. Seed the Database
 
 Woo! We have a database! Unfortunately, it’s empty. Let’s fix that by seeding it with some dummy data. Note: these seeds are NOT for eating.
@@ -205,11 +193,11 @@ Woo! We have a database! Unfortunately, it’s empty. Let’s fix that by seedin
 <img alt="Don't eat the seeds" src="https://media.giphy.com/media/7Z71Z76pCC8Za/giphy.gif">
 </center>
 
-First, we need to add the [Faker gem](https://github.com/faker-ruby/faker) so we can easily populate the database with random information. Add  `gem ‘faker’` to your Gemfile and run `bundle install` in your terminal. Next, open up your `seeds.rb` file. At the very top, we need to add `require ‘Faker’` so our new gem will work.
+First, we need to add the [Faker gem](https://github.com/faker-ruby/faker) so we can easily populate the database with random information. Add `gem ‘faker’` to your Gemfile and run `bundle install` in your terminal. Next, open up your `seeds.rb` file. At the very top, we need to add `require ‘Faker’` so our new gem will work.
 
 We are going to create 10 users with 3 entries each, using loops.
 
-*Update 4.24.2020 - I updated the boolean names and added code for the `ispublic` boolean. You can see my explanation [here](https://www.codewitch.dev/covidiarypt45-databasefixes). *
+_Update 4.24.2020 - I updated the boolean names and added code for the `ispublic` boolean. You can see my explanation [here](/articles/covidiary-pt-4.5-database-fixes)._
 
 ```ruby
 # create 10 Users
@@ -263,13 +251,9 @@ end
 
 Now, run `rails db:seed` in your terminal! To check that it worked, open the Rails console using `rails c`. You can see all the users in your database by entering `User.all`. I just wanted to see the first user and its entries. Here’s my console:
 
-
-
 <center>
 <img alt="Console output" src="https://i.imgur.com/b9QsGuv.jpg">
 </center>
-
-
 
 ## Coming Up
 

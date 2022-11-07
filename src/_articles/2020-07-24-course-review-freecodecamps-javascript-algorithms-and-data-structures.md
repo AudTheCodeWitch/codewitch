@@ -12,7 +12,7 @@ Last week, I completed freeCodeCamp's JavaScript Algorithms and Data Structures 
 
 ## The Curriculum
 
-Let's break this course down. It is divided into 9 modules, plus a section of 5 projects at the end. Like the Responsive Web Design course ([read my review](https://www.codewitch.dev/course_review_freecodecamps_responsive_web_design "Course Review: FCC's Responsive Web Design")), each lesson has a quick readme with a coding exercise. To advance to the next lesson, your code must pass a set of predefined tests.
+Let's break this course down. It is divided into 9 modules, plus a section of 5 projects at the end. Like the Responsive Web Design course ([read my review](articles/course-review-freecodecamps-responsive-web-design "Course Review: FCC's Responsive Web Design")), each lesson has a quick readme with a coding exercise. To advance to the next lesson, your code must pass a set of predefined tests.
 
 ### Module 1: Basic JavaScript
 

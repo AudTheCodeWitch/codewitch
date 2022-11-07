@@ -1,27 +1,23 @@
 ---
 layout: post
-title:      "TankMate 1.0: My Rails Project"
-date:       2019-10-13 23:21:23 -0400
+title: "TankMate 1.0: My Rails Project"
+date: 2019-10-13 23:21:23 -0400
 image: /images/heroes/tank_mate.jpg
 image_hero: /images/heroes/tank_mate.jpg
 rainbow_hero: true
 ---
 
-
-How are we back here again? It feels like I just [wrote one of these](https://audthecodewitch.github.io/classreads_my_sinatra_project) project reviews. I can’t believe I’m now well over halfway through this bootcamp journey.
-
+How are we back here again? It feels like I just [wrote one of these](/articles/classreads-my-sinatra-project) project reviews. I can’t believe I’m now well over halfway through this bootcamp journey.
 
 ## Choosing a Project
 
 I have maintained aquariums for nearly 20 years. At one point, I had over 300 gallons of freshwater aquariums to keep up with. Tank maintenance was a huge and complicated chore. Once again, I designed the app I wish I had, one that would schedule tasks, track aquarium stocking numbers, and give me a place to record and monitor test results.
-
 
 ## Building TankMate
 
 This app saw me through several firsts. Installing and using PostgreSQL was an adventure, to say the least. Configuring my IDE to use PostgreSQL instead of SQLite was a day-long event that forced me to flex my Google muscle to overcome random errors. Once I got it up and running, I was off to the races, structuring my database with several `has_many` and `has_many_through` relationships:
 
 <center><img src='https://i.imgur.com/1HGDhy6.jpg' alt='Tankmate Database Relationships'></center>
-
 
 I also used Devise for the first time. Devise is a powerful tool that let me build my user authentication and setup OmniAuth so users can login with Facebook. I highly recommend using Devise because it simplifies the authentication process, but it does take a little configuring to get it working properly. Rails Girls has a very [helpful guide](https://guides.railsgirls.com/devise) for this.
 
@@ -79,7 +75,6 @@ helper_method :params
 
 ```
 
-
 Here are the scope methods, stored in the Maintenance class, where they belong:
 
 ```ruby
@@ -128,9 +123,7 @@ def self.by_tank(tank)
 
 ```
 
-
 ## Challenges and Breakthroughs
-
 
 ### Forms, Forms, and More Forms
 
@@ -210,9 +203,7 @@ While the `create` method handles the `Tank` and `Maintenance` instances, the `T
 
 ```
 
-
 ### MVP
-
 
 My Rails project was, more than anything, a lesson in prioritization and, to some extent, humility. I entered project week with grand designs for the most beautiful Rails app _OF ALL TIME_. Then life happened. Setting up PostgreSQL took longer than I expected. I had a 2-day migraine that seriously killed my productivity. I was cranky because we went from 80-degree weather to snow overnight (seriously, [Colorado is dumb](https://gazette.com/news/colorado-springs-first-fall-snow-packs-a-punch-leaves-freezing/article_101135f4-ebbf-11e9-a073-234aa734c815.html)). All these factors played a part in the app I present to you today.
 
@@ -224,15 +215,13 @@ My Rails project, and all the struggles I incurred along the way, forced me to s
 
 As the week progressed, however, I gradually altered my thinking. I came to realize I had my priorities all out of whack. I was literally making myself ill worrying about things like CSS styling and complicated forms when they weren’t even mentioned in the project requirements. Why was I torturing myself? It’s not like Flatiron is giving out extra credit, y’all. Besides, by focusing on elements I didn’t need, I was neglecting features that were required, and the deadline was swiftly approaching. If I kept it up, I would straight-up fall like a balrog.
 
-<center><img src='http://giphygifs.s3.amazonaws.com/media/njYrp176NQsHS/giphy.gif' alt='You Shall Not Pass'></center>
+<center><img src='https://giphygifs.s3.amazonaws.com/media/njYrp176NQsHS/giphy.gif' alt='You Shall Not Pass'></center>
 
 So I got my priorities straight. I listed out all the things I _wanted_ to do with my app as well as all the things I _needed_ to do. I sorted my list by importance and complexity, and started checking them off one by one. Once I focused, I found the whole process of building TankMate to go much smoother. I still have many features to implement, but now I have an ordered list from which to move forward.
-
 
 ## Ideas for Improvement
 
 I am, overall, very happy with the core functionality of TankMate. It does what I want it to do. My biggest gripe is that it’s ugly. I have no CSS styling. When I have a bit of time, I would like to revisit this app and launch the beautiful app I envisioned at the outset, complete with a fancy gallery wall where users can show off their beautiful aquariums. Once TankMate looks a bit more professional, I plan on deploying it via Heroku. Stay tuned for version 2.0. I will be sure to post a new video walkthrough and blog!
-
 
 ## Check It Out
 
