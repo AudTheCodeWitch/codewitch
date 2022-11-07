@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "9 Tips for Remote Work Success"
-date:       2020-02-07 23:09:58 +0000
+title: "9 Tips for Remote Work Success"
+date: 2020-02-07 23:09:58 +0000
 image: /images/heroes/remote_work.jpg
 image_hero: /images/heroes/remote_work.jpg
 rainbow_hero: true
@@ -29,7 +29,7 @@ You don’t necessarily need to dedicate an entire room to your work. For many o
 
 ### 2. Get organized
 
-It is imperative to design and implement an organization system that works for you. I talk a bit about the current system I’m using in my [Post-Graduation Organization](https://audthecodewitch.github.io/post-graduation_organization) post, but I’ve also found success using post-it notes, day planners, and dry-erase boards over the years. The biggest point is to come up with a system that works for you and _stick to it_.
+It is imperative to design and implement an organization system that works for you. I talk a bit about the current system I’m using in my [Post-Graduation Organization](/articles/post-graduation-organization) post, but I’ve also found success using post-it notes, day planners, and dry-erase boards over the years. The biggest point is to come up with a system that works for you and _stick to it_.
 
 ### 3. Get comfy
 
@@ -38,7 +38,6 @@ If you land a full-time remote position, you’ll be spending at least 40 hours 
 My office is in the basement, which adds it’s own set of challenges. It’s cold down here, and the lighting is terrible. I also have to go _all the way upstairs_ to get a snack or something to drink. To combat the cold, I have a space heater, an electric heat pad, and a blanket. Now I’m always roasty-toasty! To reduce eye strain and prevent massive headaches, I added a desk lamp and got blue-light-filtering lenses for my glasses. I set up my old mini-fridge from college and boom! My office is my own little work paradise.
 
 You don’t need to spend an arm and a leg to create your own work haven. ~~Steal stuff~~ Reallocate items from other rooms in your home, and drop by your local thrift store! Once again, get creative. I didn’t have the funds to repaint the navy blue walls of my micro-office, so I went to the dollar store. Three rolls of mermaid-scale wrapping paper later, and I have a totally transformed (and much more magical) space!
-
 
 ## This is Mental
 
@@ -70,7 +69,6 @@ Set yourself up for success by limiting these distractions. Pretend that Switch 
 
 If you have children, consider hiring a sitter for the busiest hours of your day. If they are old enough to supervise themselves, set clear expectations for your children to respect your workspace and time.
 
-
 ## I’m a Little Emotional
 
 In my conversations with other remote workers, loneliness seems to be the common thread. Working from home has many perks, but it can also leave you feeling isolated.
@@ -90,6 +88,5 @@ The silence of working from home can be deafening… and slightly maddening. I l
 ### 9. Be social
 
 Cultivating remote work relationships can be far more difficult than doing so in a traditional office environment. However, it is not impossible. Be intentional with your communication with your teammates. Check-in on a personal level at least once a day. Set aside specific times to “hang out” on video chat. Share pictures from your weekend adventures. Go out of your way to build relationships with your coworkers and stave off the loneliness together.
-
 
 Remote work is not for everyone, but for those of you who wish to try it, I hope you found these tips helpful. Remember to be flexible, try new things, and reach out for support from other remote workers if you need it. We’ll be happy to help.
