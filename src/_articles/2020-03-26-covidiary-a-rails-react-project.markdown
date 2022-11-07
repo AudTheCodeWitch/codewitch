@@ -15,7 +15,7 @@ As of this morning, Colorado is officially under lockdown until April 11, at the
 
 Besides the concern for my family and friends, my arts-and-humanities-loving mind can’t seem to stop contemplating the historical significance of this pandemic. We will surely be a topic of study for future historians, and it is our duty to provide them with a record of our individual experiences.
 
-As an English scholar (and a reluctant-to-admit-it history buff), I have a deep love for primary documents. Thomas Jefferson’s [Commonplace Books](https://www.loc.gov/teachers/classroommaterials/connections/thomas-jefferson/langarts2.html) give us a window into the mind of one of America’s founding fathers.
+As an English scholar (and a reluctant-to-admit-it history buff), I have a deep love for primary documents. Thomas Jefferson’s [Commonplace Books](https://www.loc.gov/item/mtjbib026467/) give us a window into the mind of one of America’s founding fathers.
 
 <center>
 <img src='https://media.giphy.com/media/yc9qqAHl4eECY/source.gif' alt="Jefferson and Adams' text thread."/>
