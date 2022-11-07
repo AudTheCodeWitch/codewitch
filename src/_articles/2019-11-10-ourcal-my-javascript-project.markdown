@@ -26,7 +26,7 @@ Similar to the MooglyCAL’s use of unique artists for each segment of their pat
 
 Being a Javascript project, the majority of my work this week dealt with the front end of my application — a major shift in focus from previous projects. While writing the HTML and CSS brought back memories of my Neopets coding days (my account may or may not still be active… don’t judge me), this was my first foray into the wonderful world of dom manipulation. I simultaneously loved and cursed Javascript in equal parts as I tweaked my code to make the app behave just the way I envisioned, and I feel as if I learned more from this one project than I did from all the Javascript lessons leading up to it. I’m so thrilled to have pulled it off!
 
-<center><a href="http://www.neopets.com/terms.phtml"><img src="http://images.neopets.com/community/stuff/ac_commentator_anim.gif"  ></a></center>
+<center><a href="https://www.neopets.com/terms.phtml"><img src="https://images.neopets.com/community/stuff/ac_commentator_anim.gif"  ></a></center>
 
 
 
