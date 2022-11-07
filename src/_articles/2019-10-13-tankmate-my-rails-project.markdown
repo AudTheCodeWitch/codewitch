@@ -215,7 +215,7 @@ My Rails project, and all the struggles I incurred along the way, forced me to s
 
 As the week progressed, however, I gradually altered my thinking. I came to realize I had my priorities all out of whack. I was literally making myself ill worrying about things like CSS styling and complicated forms when they weren’t even mentioned in the project requirements. Why was I torturing myself? It’s not like Flatiron is giving out extra credit, y’all. Besides, by focusing on elements I didn’t need, I was neglecting features that were required, and the deadline was swiftly approaching. If I kept it up, I would straight-up fall like a balrog.
 
-<center><img src='http://giphygifs.s3.amazonaws.com/media/njYrp176NQsHS/giphy.gif' alt='You Shall Not Pass'></center>
+<center><img src='https://giphygifs.s3.amazonaws.com/media/njYrp176NQsHS/giphy.gif' alt='You Shall Not Pass'></center>
 
 So I got my priorities straight. I listed out all the things I _wanted_ to do with my app as well as all the things I _needed_ to do. I sorted my list by importance and complexity, and started checking them off one by one. Once I focused, I found the whole process of building TankMate to go much smoother. I still have many features to implement, but now I have an ordered list from which to move forward.
 
