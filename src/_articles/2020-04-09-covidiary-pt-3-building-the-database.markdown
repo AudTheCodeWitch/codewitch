@@ -197,7 +197,7 @@ First, we need to add the [Faker gem](https://github.com/faker-ruby/faker) so we
 
 We are going to create 10 users with 3 entries each, using loops.
 
-_Update 4.24.2020 - I updated the boolean names and added code for the `ispublic` boolean. You can see my explanation [here](https://www.codewitch.dev/covidiarypt45-databasefixes). _
+_Update 4.24.2020 - I updated the boolean names and added code for the `ispublic` boolean. You can see my explanation [here](/articles/covidiary-pt-4.5-database-fixes)._
 
 ```ruby
 # create 10 Users
