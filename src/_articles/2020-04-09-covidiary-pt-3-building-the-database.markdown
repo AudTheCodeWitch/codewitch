@@ -141,7 +141,7 @@ end
 
 Now, let’s add some extra information to our `create_entries` migration:
 
-_Update 4.24.2020 - I changed the boolean name, `symptoms_present?` to reflect best practices. I also added the boolean, `is_public`. You can see my explanation [here](https://www.codewitch.dev/covidiary_pt_4_5_-_database_fixes)._
+_Update 4.24.2020 - I changed the boolean name, `symptoms_present?` to reflect best practices. I also added the boolean, `is_public`. You can see my explanation [here](/articles/covidiary-pt-4.5-database-fixes)._
 
 ```ruby
 class CreateEntries < ActiveRecord::Migration[6.0]
