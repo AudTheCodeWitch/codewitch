@@ -97,5 +97,5 @@ I found these articles to be particularly helpful in my research. If you are loo
 
 
 1. [MDN](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function) - Of course I’m sending you to the docs.
-2. [JavaScript is Sexy](https://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/) - I mean, they’re right. And they also have a pretty detailed description of callbacks.
+2. [JavaScript is Sexy](https://web.archive.org/web/20220214032239/http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/) - I mean, they’re right. And they also have a pretty detailed description of callbacks.
 3. [Callback Hell](http://callbackhell.com/) - Here’s a deeper look at the dangers of too many callbacks.
