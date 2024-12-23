@@ -4,32 +4,42 @@
       <div class="column">
         <div class="logo">
           <span class="navbar-item pl-0">
-              <img class='pr-3' src="/images/code-witch-logo.svg" alt="The Code Witch"/> {{ metadata.title }}
+            <img class='pr-3' src="/images/code-witch-logo.svg" alt="The Code Witch"/> {{ metadata.title }}
           </span>
         </div>
         <h5>Copyright © Audrea Cook {{ "now" | date: "%Y" }}</h5>
         <div class="is-size-7">
-          Website content licensed <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>
+          Website content licensed
+          <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>
         </div>
-        <p class="is-size-7">Found a bug? <a href="https://github.com/{{ metadata.github }}/codewitch/issues/new" class="mr-2" target="_blank">File an issue.</a></p>
-        <p class="is-size-7">This site is built off <a href="https://github.com/whitefusionhq/bulmatown">Bulmatown</a>.</p>
+        <p class="is-size-7">Found a bug?
+          <a href="https://github.com/{{ metadata.github }}/codewitch/issues/new" class="mr-2" target="_blank">File an issue.</a>
+        </p>
+        <p class="is-size-7">This site is built off
+          <a href="https://github.com/whitefusionhq/bulmatown">Bulmatown</a>.</p>
 
       </div>
-      <div class="column has-text-centered-tablet" style='margin-top: auto'>
-
-      </div>
+      <div class="column has-text-centered-tablet" style='margin-top: auto'></div>
       <div class="column has-text-right-tablet">
         <h4>
-          Let's <strong>Connect</strong>
+          Let's
+          <strong>Connect</strong>
         </h4>
 
         <div class="mt-3">
-          <a href="https://twitter.com/{{ metadata.twitter }}" class="mr-2" target="_blank"> <i class="fa fa-twitter is-size-5"></i></a>
-          <a href="https://github.com/{{ metadata.github }}" class="mr-2" target="_blank"><i class="fa fa-github is-size-5"></i></a>
-          <a href="https://linkedin.com/in/{{ metadata.linkedin }}" target="_blank"><i class="fa fa-linkedin is-size-5"></i></a>
+          <a href="https://hachyderm.io/{{ metadata.mastodon }}" class="mr-2" target="_blank">
+            <i class="fa fa-mastodon is-size-5"></i>
+          </a>
+          <a href="https://github.com/{{ metadata.github }}" class="mr-2" target="_blank">
+            <i class="fa fa-github is-size-5"></i>
+          </a>
+          <a href="https://linkedin.com/in/{{ metadata.linkedin }}" target="_blank">
+            <i class="fa fa-linkedin is-size-5"></i>
+          </a>
         </div>
-        <h5><a href = "mailto: hello@audthecodewitch.dev" target="_blank">hello@authecodewitch.dev</a></h5>
-
+        <h5>
+          <a href="mailto: {{ metadata.email}}" target="_blank">{{ metadata.email }}</a>
+        </h5>
       </div>
     </div>
   </div>
